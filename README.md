@@ -5,7 +5,15 @@ Kansas City is a moderately sized metropolitan area of just over 2 million peopl
 The data that will be used are from Open Data KC, which publishes a lot of different datasets relating to the city. I will be using police reports from 2016-2018. This project has a lot of possibilities, and will be a work in progress over the next several months. 
 
 While relying on my background in Economics and Sociology, this project will also demonstrate my skills in: 
+<<<<<<< HEAD
  - Using Python Pandas to manipulate and create features data
  - Conducting Exploratory Data Analysis to understand the data and guide my analysis
  - Leveraging simple statistics to look for correlations and test hypotheses 
  - Applying more complicated machine learning techniques project trends into the future 
+=======
+
+ - Using Python Pandas to manipulate and create features data
+ - Conducting Exploratory Data Analysis to understand the data and guide my analysis
+ - Leveraging simple statistics to look for correlations and test hypotheses 
+ - Applying more complicated machine learning techniques project trends into the future 
+>>>>>>> 515dc032dba5cdbdf128833d3a3377081f92cb50
