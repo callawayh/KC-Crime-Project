@@ -11,9 +11,3 @@ While relying on my background in Economics and Sociology, this project will als
  - Leveraging simple statistics to look for correlations and test hypotheses 
  - Applying more complicated machine learning techniques project trends into the future 
 =======
-
- - Using Python Pandas to manipulate and create features data
- - Conducting Exploratory Data Analysis to understand the data and guide my analysis
- - Leveraging simple statistics to look for correlations and test hypotheses 
- - Applying more complicated machine learning techniques project trends into the future 
->>>>>>> 515dc032dba5cdbdf128833d3a3377081f92cb50
