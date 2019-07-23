@@ -6,8 +6,15 @@ The data that will be used are from Open Data KC, which publishes a lot of diffe
 
 While relying on my background in Economics and Sociology, this project will also demonstrate my skills in: 
 
+<<<<<<< HEAD
  - Using Python Pandas to manipulate and create features data
  - Conducting Exploratory Data Analysis to understand the data and guide my analysis
  - Leveraging simple statistics to look for correlations and test hypotheses 
  - Applying more complicated machine learning techniques project trends into the future 
 
+=======
+ - Using Python Pandas to manipulate and create features from data
+ - Conducting Exploratory Data Analysis to understand the data and guide my analysis
+ - Leveraging simple statistics to look for correlations and test hypotheses 
+ - Applying more complicated machine learning techniques project trends into the future 
+>>>>>>> a726785a4bce57fb34560243706301c6b12b519d
