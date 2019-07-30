@@ -16,3 +16,4 @@ Packages relyied on will be:
  - PySpark
  - Numpy
  - Matplotlib
+ - Seaborn
