@@ -13,6 +13,7 @@ While relying on my background in Economics and Sociology, this project will als
 
 Packages relyied on will be:
  - Pandas
+ - Sklearn
  - PySpark
  - Numpy
  - Matplotlib
